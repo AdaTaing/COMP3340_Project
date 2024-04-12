@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Login Page</title>
+        <link rel="stylesheet" href="styles/styles.css">
+        <script type="module" src="scripts/login.js"></script>
+    </head>
+    <body>
+        <header>
+            <div id="logo">
+                <h1>Pants<span class="trademark-symbol">&#8482;</span></h1>
+                <p>Working with the images I got</p>
+            </div>
+        </header>
+        <form action="login.php" method="POST" id="login-form" autocomplete="on">
+            <legend>Login</legend>
+            <div id="form-container">
+                <label for="username">Username:</label>
+                <input type="text" name="username" placeholder="Enter Username" id="username" required autofocus/>
+            </div>
+            <div id="form-container">
+                <label for="password">Password:</label>
+                <input type="password" name="password" placeholder="Enter Password" id="password" required autofocus/>
+            </div>
+            <div id="form-container">
+                <button type="submit" form="login-form">Log in</button>
+                <button class="form-reset" type="reset" form="login-form" >Reset</button>
+            </div>
+        </form>
+        <a id="sign-up-button" href="signup.html">Sign-up</a>
+    </body>
+</html>

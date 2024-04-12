@@ -1,0 +1,124 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "src": "images/pants1.jpg",
+            "name": "Black Shorts Version 1",
+            "price": 50.23
+        },
+        {
+            "id": 2,
+            "src": "images/pants2.jpg",
+            "name": "Black Shorts Version 2",
+            "price" : 64.97
+        },
+        {
+            "id": 3,
+            "src": "images/pants3.jpg",
+            "name": "Black Shorts Version 3",
+            "price" : 82.34
+        },
+        {
+            "id": 4,
+            "src": "images/pants4.jpg",
+            "name": "Blue Jeans Skirt",
+            "price" : 75.00
+        },
+        {
+            "id": 5,
+            "src": "images/pants5.jpg",
+            "name": "Darker Blue Jeans Shorts",
+            "price" : 95.00
+        },
+        {
+            "id": 6,
+            "src": "images/pants6.jpg",
+            "name": "Blue Jeans Shorts Version 1",
+            "price" : 45.99
+        },
+        {
+            "id": 7,
+            "src": "images/pants7.jpg",
+            "name": "Mid-Length Blue Jeans Skirt",
+            "price" : 60.99
+        },
+        {
+            "id": 8,
+            "src": "images/pants8.jpg",
+            "name": "Blue Jeans Shorts Version 2",
+            "price" : 72.99
+        },
+        {
+            "id": 9,
+            "src": "images/pants9.jpg",
+            "name": "White Tights",
+            "price" : 38.99
+        },
+        {
+            "id": 10,
+            "src": "images/pants10.jpg",
+            "name": "Light Pink Tights",
+            "price" : 42.99
+        },
+        {
+            "id": 11,
+            "src": "images/pants11.jpg",
+            "name": "Red Tights",
+            "price" : 56.99
+        },
+        {
+            "id": 12,
+            "src": "images/pants12.jpg",
+            "name": "Black Tights",
+            "price" : 49.99
+        },
+        {
+            "id": 13,
+            "src": "images/pants13.jpg",
+            "name": "Teal Tights",
+            "price" : 53.99
+        },
+        {
+            "id": 14,
+            "src": "images/pants14.jpg",
+            "name": "Deep Pink Tights",
+            "price" : 66.99
+        },
+        {
+            "id": 15,
+            "src": "images/pants15.jpg",
+            "name": "Weird Monochrome Shorts",
+            "price" : 76.99
+        },
+        {
+            "id": 16,
+            "src": "images/pants16.jpg",
+            "name": "Long Black Pants with Fancy Cloth Belt",
+            "price" : 89.99
+        },
+        {
+            "id": 17,
+            "src": "images/pants17.jpg",
+            "name": "Long Blue Jeans Pants with Fancy Cloth Belt",
+            "price" : 109.99
+        },
+        {
+            "id": 18,
+            "src": "images/pants18.jpg",
+            "name": "Long Dark Blue Jeans Version 1",
+            "price" : 129.99
+        },
+        {
+            "id": 19,
+            "src": "images/pants19.jpg",
+            "name": "Long Dark Pants",
+            "price" : 149.99
+        },
+        {
+            "id": 20,
+            "src": "images/pants20.jpg",
+            "name": "Long Dark Pants Jeans Version 2",
+            "price" : 169.99
+        }
+    ]
+}
